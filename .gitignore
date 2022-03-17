@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/BookClub.WebApi/obj/project.nuget.cache
+/BookClub.WebApi/obj/project.assets.json
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.GlobalUsings.g.cs
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.csproj.AssemblyReference.cache
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.assets.cache
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.AssemblyInfoInputs.cache
+/BookClub.WebApi/obj/Debug/net6.0/BookClub.WebApi.AssemblyInfo.cs
+/BookClub.WebApi/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+/BookClub.WebApi/obj/BookClub.WebApi.csproj.nuget.g.targets
+/BookClub.WebApi/obj/BookClub.WebApi.csproj.nuget.g.props
+/BookClub.WebApi/obj/BookClub.WebApi.csproj.nuget.dgspec.json
+/.vs/BookClub/v17/.suo
